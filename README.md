@@ -7,7 +7,7 @@
 
 ##### screenshot of the effect:
 
-![](/effcet.png)
+![](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effcet.png)
 
 ##### support situation:
 

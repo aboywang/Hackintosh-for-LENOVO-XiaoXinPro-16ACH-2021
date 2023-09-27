@@ -7,7 +7,7 @@
 
 ##### screenshot of the effect:
 
-![](effcet.png)
+![effect](effect.png)
 
 ##### support situation:
 

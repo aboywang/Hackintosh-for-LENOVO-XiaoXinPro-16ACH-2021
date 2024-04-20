@@ -2,27 +2,32 @@
 
 ##### **attention:**
 
-- This 'EFI' file is only available for **macOS Monterey**,if you need the higher version compared  to Monterey,you must replace the crucial files of the 'EFI',like bluetooth,to ensure your PC could work well;
+- This 'EFI' file is only available for **macOS Ventura**,if you need the higher version compared  to Monterey,you must replace the crucial files of the 'EFI',like bluetooth,to ensure your PC could work well;
 - IF the temperature of  your laptop's CPU is too high, you probably need to limit it with the 'AMD Power Gadget' application in the Tools folder.
-
-##### screenshot of the effect:
-
-![effect](effect.png)
+- GPUs cannot be hard-coded, only soft-coded. I used the deprecated "BFixup.kext", which may have slowed down OpenGL or caused hardware acceleration to fail completely. But the good thing is that if you add this kext, the daily use of the software will be much better.
 
 ##### support situation:
 
-|   Hardware   |             Detail              |                    Run                     |
-| :----------: | :-----------------------------: | :----------------------------------------: |
-|     CPU      |        AMD Ryzen 7 5800H        |                    well                    |
-|     GPU      | Radeon Graphics(max support 2G) |                   better                   |
-|    Memory    |               16G               |                    well                    |
-|    Sound     |  ALC0257(ALC257, layout-id=11)  | better(MIC has murmur,needed to customize) |
-|     HDMI     | Radeon Graphics(max support 2G) |          unknown(needed to test)           |
-| Network Card |        Intel AX210 WiFi6        |                    well                    |
-|  Bluetooth   |        Intel AX210 WiFi6        |                    well                    |
-|    iCloud    |           System App            |                    well                    |
-|    Camera    |            FaceTime             |       No(the high version runs well)       |
-|   Battery    |             Lenovo              |                    well                    |
+|   Hardware   |             Detail              |           Run           |
+| :----------: | :-----------------------------: | :---------------------: |
+|     CPU      |        AMD Ryzen 7 5800H        |          well           |
+|     GPU      | Radeon Graphics(max support 2G) |          well           |
+|    Memory    |               16G               |          well           |
+|    Sound     |  ALC0257(ALC257, layout-id=11)  |          well           |
+|     HDMI     | Radeon Graphics(max support 2G) | unknown(needed to test) |
+| Network Card |        Intel AX210 WiFi6        |          well           |
+|  Bluetooth   |        Intel AX210 WiFi6        |          well           |
+|    iCloud    |           System App            |          well           |
+|    Camera    |            FaceTime             |          well           |
+|   Battery    |             Lenovo              |          well           |
+
+##### screenshot of the effect:
+
+<img src="./effect1.png" alt="effect1" style="zoom:35%;" />
+
+![effect2](./effect2.png)
+
+![effect3](./effect3.png)
 
 ##### thanks:
 

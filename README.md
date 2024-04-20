@@ -23,11 +23,11 @@
 
 ##### screenshot of the effect:
 
-<img src="./effect1.png" alt="effect1" style="zoom:35%;" />
+<img src="/effect1.png" alt="effect1" style="zoom:35%;" />
 
-![effect2](./effect2.png)
+![effect2](/effect2.png)
 
-![effect3](./effect3.png)
+![effect3](/effect3.png)
 
 ##### thanks:
 

@@ -23,11 +23,11 @@
 
 ##### screenshot of the effect:
 
-<img src="/effect1.png" alt="effect1" style="zoom:35%;" />
+![image](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effect1.png)
 
-![effect2](/effect2.png)
+![image](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effect2.png)
 
-![effect3](/effect3.png)
+![image](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effect3.png)
 
 ##### thanks:
 

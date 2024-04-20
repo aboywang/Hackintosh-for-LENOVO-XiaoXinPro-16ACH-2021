@@ -23,11 +23,11 @@
 
 ##### screenshot of the effect:
 
-![image](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effect1.png)
+![image](effect1.png)
 
-![image](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effect2.png)
+![image](effect2.png)
 
-![image](https://github.com/aboywang/Hackintosh-for-LENOVO-XiaoXinPro-16ACH-2021/blob/main/effect3.png)
+![image](effect3.png)
 
 ##### thanks:
 

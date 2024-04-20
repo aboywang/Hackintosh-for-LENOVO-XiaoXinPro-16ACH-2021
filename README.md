@@ -23,11 +23,11 @@
 
 ##### screenshot of the effect:
 
-![image](effect1.png)
+![image](/effect/effect1.png)
 
-![image](effect2.png)
+![image](/effect/effect2.png)
 
-![image](effect3.png)
+![image](/effect/effect3.png)
 
 ##### thanks:
 

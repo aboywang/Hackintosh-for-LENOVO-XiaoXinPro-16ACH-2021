@@ -5,7 +5,7 @@
 - This 'EFI' file is only available for **macOS Ventura 13.5**,if you need the higher version compared  to Monterey,you must replace the crucial files of the 'EFI',like bluetooth,to ensure your PC could work well.
 - IF the temperature of  your laptop's CPU is too high, you probably need to limit it with the 'AMD Power Gadget' application in the Tools folder.
 - GPUs cannot be hard-coded, only soft-coded.
-- If you are stuck on the boot loading page, then you should unplug your usb device, the reason why this problem occurs is not yet.
+- Please insert the USB flash drive or mouse into the port furthest away from you, otherwise the WIFI will hang up after the boot. The exact cause is unknown.
 
 ##### support situation:
 

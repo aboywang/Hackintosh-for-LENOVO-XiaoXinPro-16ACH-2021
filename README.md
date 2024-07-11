@@ -4,7 +4,7 @@
 
 - This 'EFI' file is only available for **macOS Ventura 13.5**,if you need the higher version compared  to Monterey,you must replace the crucial files of the 'EFI',like bluetooth,to ensure your PC could work well.
 - IF the temperature of  your laptop's CPU is too high, you probably need to limit it with the 'AMD Power Gadget' application in the Tools folder.
-- GPUs cannot be hard-coded, only soft-coded. I used the deprecated "BFixup.kext", which may have slowed down OpenGL or caused hardware acceleration to fail completely. But the good thing is that if you add this kext, the daily use of the software will be much better.
+- GPUs cannot be hard-coded, only soft-coded.
 - If you are stuck on the boot loading page, then you should unplug your usb device, the reason why this problem occurs is not yet.
 
 ##### support situation:

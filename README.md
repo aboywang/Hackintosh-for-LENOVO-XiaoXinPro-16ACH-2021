@@ -31,7 +31,7 @@
 
 ##### Learning and communication:
 
-![image](QR.png)
+<img src="QR.png" alt="image" style="zoom:35%;">
 
 ##### thanks:
 

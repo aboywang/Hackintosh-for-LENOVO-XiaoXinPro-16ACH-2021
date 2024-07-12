@@ -6,9 +6,7 @@
 
 - GPUs cannot be hard-coded, only soft-coded.
 
-- Temperature monitoring software, recommended 
-
-  [stats]: https://github.com/exelban/stats
+- Temperature monitoring software, recommended stats.
 
   
 

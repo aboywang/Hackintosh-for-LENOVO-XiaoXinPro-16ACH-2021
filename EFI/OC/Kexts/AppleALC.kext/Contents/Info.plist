@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>21G726</string>
+	<string>22G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -29,19 +29,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>13F100</string>
+	<string></string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>12.3</string>
+	<string>14.2</string>
 	<key>DTSDKBuild</key>
-	<string>21E226</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>macosx12.3</string>
+	<string>macosx14.2</string>
 	<key>DTXcode</key>
-	<string>1341</string>
+	<string>1510</string>
 	<key>DTXcodeBuild</key>
-	<string>13F100</string>
+	<string>15C65</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ALCUserClientProvider</key>
@@ -3660,14 +3660,14 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
-					<string>MacPeet - Realtek ALC257 for Lenovo T480</string>
+					<string>Aboywang - Realtek ALC257 for Lenovo XiaoXinPro16</string>
 					<key>CodecID</key>
 					<integer>283902551</integer>
 					<key>ConfigData</key>
 					<data>
-					ASccIAEnHQABJx6mAScfkAGXHDABlx0QAZce
-					gQGXHwABRxxQAUcdAAFHHhcBRx+QAUcMAgIX
-					HGACFx0QAhceIQIXHwA=
+					AUccEAFHHQEBRx4XAUcfmQIXHCACFx0QAhce
+					IQIXHwECFwwCASccMAEnHQEBJx6mAScfmQGX
+					HEABlx0QAZcegQGXHwEBRwwC
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>

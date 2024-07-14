@@ -677,6 +677,24 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
+                    <string>VoodooI2CHID.kext</string>
+                    <key>Comment</key>
+                    <string>V1</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/VoodooI2CHID</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
                     <string>V1.8.8 | AppleALC.kext</string>
@@ -751,9 +769,9 @@
                     <key>BundlePath</key>
                     <string>AMDRyzenCPUPowerManagement.kext</string>
                     <key>Comment</key>
-                    <string>V0.7.1 | AMDRyzenCPUPowerManagement.kext</string>
+                    <string>V0.7.2 | AMDRyzenCPUPowerManagement.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AMDRyzenCPUPowerManagement</string>
                     <key>MaxKernel</key>
@@ -771,7 +789,7 @@
                     <key>Comment</key>
                     <string>V1 | SMCAMDProcessor.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/SMCAMDProcessor</string>
                     <key>MaxKernel</key>
@@ -789,7 +807,7 @@
                     <key>Comment</key>
                     <string>V1.0.1</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/SMCProcessorAMD</string>
                     <key>MaxKernel</key>
@@ -846,24 +864,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/SMCLightSensor</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>VoodooI2CHID.kext</string>
-                    <key>Comment</key>
-                    <string>V1</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/VoodooI2CHID</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -2066,7 +2066,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1 debug=0x100 alcid=11 -wegnoegpu -vi2c-force-polling</string>
+                    <string>-v keepsyms=1 swd_panic=1 debug=0x100 alcid=11 -wegnoegpu -vi2c-force-polling</string>
                     <key>csr-active-config</key>
                     <data>ZwAAAA==</data>
                     <key>run-efi-updater</key>
@@ -2106,7 +2106,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C020413014N0000AD</string>
+                <string>C020341004N0000A8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -2120,9 +2120,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C02DJNYEP3XY</string>
+                <string>C02D8CZQP3XY</string>
                 <key>SystemUUID</key>
-                <string>3B21C518-AEF6-4291-BDBA-864CE4C62617</string>
+                <string>4DCDC5B6-0A88-4930-8821-23579F7B0689</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>

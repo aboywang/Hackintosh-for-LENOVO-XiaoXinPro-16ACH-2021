@@ -2,7 +2,7 @@
 
 ##### **attention:**
 
-- This 'EFI' file is only available for **macOS Ventura 13.5**,if you need the higher version compared  to Monterey,you must replace the crucial files of the 'EFI',like bluetooth,to ensure your PC could work well.
+- This 'EFI' file is only available for **macOS Ventura 14.5**,you must replace the crucial files of the 'EFI',like bluetooth,to ensure your PC could work well.
 
 - GPUs cannot be hard-coded, only soft-coded.
 
